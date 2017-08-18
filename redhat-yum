@@ -1,0 +1,29 @@
+yum -y install git
+yum -y install epel-release
+
+yum -y install bc
+yum -y install vim
+
+yum -y install dos2unx
+
+yum -y install screen
+yum -y install tmux
+
+yum -y install wget
+yum -y install lrzsz
+
+yum -y install tunctl
+yum -y install bridge-utils
+yum -y install tcpdump
+
+yum -y install vtun
+yum -y install openvpn
+
+yum -y install xz
+yum -y install lzo
+
+yum -y install xinetd
+yum -y install samba
+
+yum -y install gcc-c++
+yum -y install autoconf
